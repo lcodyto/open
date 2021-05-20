@@ -1,12 +1,16 @@
  **使用场景** 
      - 例如某些数据需要动态修改，活动奖品数量 ,开奖时间等一些经常变化的数据等
+
  **功能** 
      - 统一的后台管理、推送实时生效，支持集群推送
+
  **使用技术** 
      - springboot
      - zookeepr
+
    **DEMO** 
       1. 第一步
+
           ```
 <dependency>
    <groupId>com.gitee.levon</groupId>
